@@ -1,3 +1,13 @@
 # Default ignored files
 /shelf/
 /workspace.xml
+
+# IntelliJ IDEA project files
+*.iml
+/gradle.xml
+/misc.xml
+/tasks.xml
+/deploymentTargetDropDown.xml
+/navEditor.xml
+/dictionaries/
+/libraries/
