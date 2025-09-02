@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "901205192984",
+    "project_id": "torpedo-7189b",
+    "storage_bucket": "torpedo-7189b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901205192984:android:0555df9c8c53d992f46e6d",
+        "android_client_info": {
+          "package_name": "com.arxgsf.torpedo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACHhTub1XlVEFaMKpr54CMz4hrLuDGsjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
